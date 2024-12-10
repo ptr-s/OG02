@@ -6,11 +6,17 @@
 In 2017, ***GitHub*** released a formal specification<br/>  of its ***GitHub*** Flavored Markdown (GFM) that is based on CommonMark.[31] It is a strict superset of CommonMark, following its specification exactly except for tables, strikethrough, autolinks and task lists, which GFM adds as extensions.[38]
 
 1. Первый текст
-2. Второй текс
+2. Второй текст
      
-    - что-то
-    - ни что
-    - ни кого
+    - факт №1
+    - факт №2
+    - факт №3
 
-3. Третий текс
+3. Третий текст
+
+Возможно вам потребуются [некоторые подсказки](HELP.md)
+
+Полезная информация о языке [**Markdown**](https://ru.wikipedia.org/wiki/Markdown)
+
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJAXmYjb9pT5uUf24j2WP2H88gM2yjXVuLg&s)
 
